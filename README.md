@@ -3,7 +3,7 @@
 
 I'm a Computer Science student
 
-Skills: JS / HTML / CSS / C / C++ / Python
+Skills: HTML / CSS / JS / C / C++ / Python
 
 
 
