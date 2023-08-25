@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Web development** and brushing up my skills
-- 🤖 I have been working on https://shorturl.at/akrU1 with the support of my team-mates as final year project 
+- 🤖 I have been working on https://shorturl.at/akrU1 as final year project. Repository link- https://github.com/Soumelee/finalYearProject
 
 
 <p align="left">
