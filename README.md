@@ -3,8 +3,6 @@
 
 - 💻 Frontend Developer
 - 🌱 Expanding my horizons in Web Development
-- 🤖 Final year team project [Sorting Visualizer](https://final-year-project-visualizer.netlify.app/). Repository link- https://github.com/Soumelee/finalYearProject
-
 
 <p align="left">
 </p>
