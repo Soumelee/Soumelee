@@ -15,6 +15,8 @@
 <!--
 <hr>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649cf035d99c9d67319e954a?variant=dark&roadmaps=computer-science%2Cfull-stack" alt="roadmap.sh"/></a>
+-->
+[![An image of @soumelee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumelee)](https://holopin.io/@soumelee)
 
 
 
